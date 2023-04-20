@@ -7,7 +7,7 @@ PwC Switzerland Power BI Virtual Case Experience
 
 **Analysis-** There are total 5000 unique call_id which PhoneNow company have received in first quarter of 2021. They have an overall resolution rate of 72.92% and abandonment rate of 18.92%. The analysis includes overall call volume trend over time, how different agents performing in terms of speed of answer and customer satisfaction, resolution rate and service level rate, specific problem types that are more common or require more time to resolve and many more.
 
-**Insights-** Insights gained include the highest call volume on January, service level rate have gradually decreased, some agents consistently perform better than others, improving speed of answer and reducing talk duration can improve customer satisfaction. The most common problem types were Payment related, Contract related and technical support. Adjust staffing levels and provide additional training to agents as needed.
+**Insights-** Insights gained include the highest call volume on January, service level rate have gradually decreased, some agents consistently perform better than others, improving speed of answer and reducing talk duration can improve customer satisfaction. The most common problem types were Payment related, Contract related and technical support. Agents who perform below average can also receive additional training to help them develop their skills.
 
 Checkout the project: https://app.powerbi.com/view?r=eyJrIjoiNGZiY2I1NzItMWQ3OC00NDNkLTg4YzMtZDViZTM1NDA3ZTQxIiwidCI6ImU4NzFhNmExLTUxNzItNGI5ZS1hODNmLTk4NDI2MGIxNTBlYiJ9
 
